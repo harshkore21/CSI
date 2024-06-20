@@ -1,4 +1,4 @@
-This is CSI 24's Week 4's new Assignment
+This is Celebal Summer Internship's Week 4 New assignment
 
 A. Create a Vnet, 2 Subnets
 
