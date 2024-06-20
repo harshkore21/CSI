@@ -1,4 +1,4 @@
-# Azure Virtual Networks and Hub-and-Spoke Architecture Guide 🕸️
+# Azure Virtual Networks and Hub-and-Spoke Architecture 🕸️
 
 ## Table of Contents 📋
 1. [Create a Virtual Network with Subnets](#create-a-virtual-network-with-subnets)
