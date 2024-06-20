@@ -11,7 +11,6 @@
    - Developing VNet
 3. [Configure Hub-and-Spoke Architecture](#configure-hub-and-spoke-architecture)
 4. [Verify Connectivity](#verify-connectivity)
-5. [Additional Resources](#additional-resources)
 
 ## Create a Virtual Network with Subnets 🛜
 
