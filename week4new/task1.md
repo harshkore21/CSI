@@ -116,7 +116,9 @@
    - Use `ping` command to test connectivity to the VMs in `ProductionVNet`, `TestingVNet`, and `DevelopingVNet`.
 
 Example Ping Commands:
-```bash
-ping <Production VM IP>
-ping <Testing VM IP>
-ping <Developing VM IP>
+```sh
+     ping 10.0.1.4   # Linux VM in Subnet-1 of MainVNet
+     ping 10.2.1.4   # VM in ProdSubnet of ProductionVNet
+     ping 10.3.1.4   # VM in TestSubnet of TestingVNet
+     ping 10.4.1.4   # VM in DevSubnet of DevelopingVNet
+     ```
