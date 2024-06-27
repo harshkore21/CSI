@@ -1,4 +1,4 @@
-This is Celebal Summer Internship's Week 4 New assignment
+This is Celebal Summer Internship's Week 5 assignment
 
 Set up a domain, setup a server on a VM and use the DNS server for traffic
 
