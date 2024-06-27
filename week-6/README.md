@@ -1,3 +1,4 @@
+This is Celebal Summer Internship's Week 6 assignment
 
 Create a Storage account and explore all the option while creating
 
