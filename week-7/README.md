@@ -1,4 +1,4 @@
-This is Celebal Summer Internship's Week 6 assignment
+This is Celebal Summer Internship's Week 7 assignment
 
 1. Observe assigned Subscriptions
 
