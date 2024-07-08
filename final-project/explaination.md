@@ -1,13 +1,13 @@
-# DevOps Project: Load Balancing using Azure Load Balancer
+# DevOps Project: Load Balancing using Azure Load Balancer 🖥️⚖️
 
-## Objective
+## Objective 🎯
 To use the Azure portal to create a public Azure Load Balancer, configuring it to manage a backend pool containing two virtual machines. Additionally, set up Azure Bastion, a NAT Gateway, a virtual network, and necessary subnets to support the load balancer configuration.
 
-## Prerequisites
+## Prerequisites ✔️
 - Azure Subscription
 - Basic understanding of Azure services
 
-## Step-by-Step Instructions
+## Step-by-Step Instructions 📝
 
 ### Step 1: Create a Resource Group
 1. **Navigate to Azure Portal**: 
@@ -65,9 +65,9 @@ To use the Azure portal to create a public Azure Load Balancer, configuring it t
 
 ---
 
-# Application Gateway Setup
+# Application Gateway Setup 🌐🚪
 
-## Step-by-Step Instructions
+## Step-by-Step Instructions 📝
 
 ### Step 1: Create an Application Gateway
 1. **Navigate to Application Gateway**:
